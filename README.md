@@ -45,7 +45,7 @@ This project provides valuable insights into our marketing performance and user 
 
 ## Files
 - https://docs.google.com/document/d/1bJC_V8WasYE-cDRGuKDTbjcR_s7J18BgWUX42ESWsJ8/edit?usp=sharing Detailed report of the marketing analysis.
-- https://public.tableau.com/views/sessions2_17198288586490/Overview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link Tableau dashboar with Marketing analysis visualisations 
+- https://public.tableau.com/views/Marketing_analysis_17203395396760/campaign?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link Tableau dashboar with Marketing analysis visualisations 
 
 ### Thank you for taking time to read my report!
 ### Jurga 
